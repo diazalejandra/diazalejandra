@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alejandra Díaz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.dribbble.com/users/328551/screenshots/4997653/04-girls-doing-stuff-hacking-coding-code.gif" width="230">
-<p><em>🎓Software Enginner at <a href="https://www.usm.cl/">USM, Chile.</a></br>
+<p><em>🎓Software Engineer at <a href="https://www.usm.cl/">USM, Chile.</a></br>
   💻Technical Lead <a href="https://www.falabella.cl">Falabella</a></em></p>
 
 [![Linkedin: diazalejandra](https://img.shields.io/badge/-diazalejandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazalejandra/)](https://www.linkedin.com/in/diazalejandra/)
