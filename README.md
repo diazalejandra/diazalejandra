@@ -1,7 +1,7 @@
 <h2> Hi, I'm Alejandra Díaz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.dribbble.com/users/328551/screenshots/4997653/04-girls-doing-stuff-hacking-coding-code.gif" width="230">
 <p><em>🎓Software Engineer at <a href="https://www.usm.cl/">USM, Chile.</a></br>
-  💻Technical Lead <a href="https://www.falabella.cl">Falabella</a></em></p>
+  💻Technical Lead <a href="https://www.linkedin.com/company/intcomex">IXComercio</a></em></p>
 
 [![Linkedin: diazalejandra](https://img.shields.io/badge/-diazalejandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazalejandra/)](https://www.linkedin.com/in/diazalejandra/)
 [![GitHub](https://img.shields.io/github/followers/diazalejandra?label=follow&style=social)](https://github.com/diazalejandra)
@@ -13,7 +13,7 @@
 const diazalejandra = {
   code: [Java, Python, Ruby, HTML, CSS],
   databases: ["Oracle", "SQL Server", "PostgreSQL"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven", "hexagonal", "design system pattern"],
   challenge: "Teach what I have learned and learn from everything I can"
 }
 ```
