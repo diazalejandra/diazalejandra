@@ -11,14 +11,14 @@
 
 ```javascript
 const diazalejandra = {
-  code: [Java, Python, Ruby, HTML, CSS],
+  code: [Java, Python, Ruby, NodeJS, HTML, CSS],
   databases: ["Oracle", "SQL Server", "PostgreSQL"],
   architecture: ["microservices", "event-driven", "hexagonal", "design system pattern"],
-  challenge: "Teach what I have learned and learn from everything I can"
+  challenge: "Teach what I have learned, and learn from everything I can"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say hi, I'll be happy to get to know you better!</b> :)</em>
 
 ---
 
